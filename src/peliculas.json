@@ -1,11 +1,162 @@
 [
-    {   
-      "enlaceImdb": "https://www.imdb.com/title/tt9362722/?ref_=ttls_li_tt",
-      "afiche":"afiches/spiderverse.jpg",
-      "titulo":"Spider-Man a través del Spider-verso",
-      "sinopsis":"Miles Morales emprende una aventura a través del multiverso con Gwen Stacy y un nuevo equipo de la Spider People que deben enfrentar a un poderoso villano.",
-      "calificacion": "8.8",
-      "votos": "235.951"
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt9362722/?ref_=ttls_li_tt",
+    "afiche": "afiches/spiderverse.jpg",
+    "titulo": "Spider-Man a través del Spider-verso",
+    "sinopsis": "Miles Morales emprende una aventura a través del multiverso con Gwen Stacy y un nuevo equipo de la Spider People que deben enfrentar a un poderoso villano.",
+    "calificacion": "8.8",
+    "votos": "235.951"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt15398776/?ref_=ttls_li_tt",
+    "afiche": "afiches/oppenheimer.jpg",
+    "titulo": "Oppenheimer",
+    "sinopsis": "La historia de científico J. Robert Oppenheimer y su rol en el desarrollo de la bomba atómica.",
+    "calificacion": "8.6",
+    "votos": "377.231"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt6791350/?ref_=ttls_li_i",
+    "afiche": "afiches/guardianes3.jpg",
+    "titulo": "guardianes de la Galaxia Vol. 3",
+    "sinopsis": "Todavía conmocionado por la pérdida de Gamora, Peter Quill reúne a su equipo para defender el universo y a uno de los suyos, una misión que podría significar el fin de los Guardianes si no tienen éxito.",
+    "calificacion": "8.0",
+    "votos": "293.821"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt9603212/?ref_=ttls_li_i",
+    "afiche": "afiches/mission.jpg",
+    "titulo": "Misión Imposible: Sentencia Mortal",
+    "sinopsis": "Ethan Hunt y su equipo deben rastrear una peligrosa arma antes de que caiga en las manos equivocadas.",
+    "calificacion": "8.0",
+    "votos": "130.379"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt10366206",
+    "afiche": "afiches/wick4.jpg",
+    "titulo": "John Wick 4",
+    "sinopsis": "John Wick descubre una forma de derrotar a la Alta Mesa. Pero antes de que pueda ganar su libertad, debe enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo y fuerzas que convierten a viejos amigos en enemigos.",
+    "calificacion": "7.8",
+    "votos": "264.807"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt16428256/?ref_=ttls_li_i",
+    "afiche": "afiches/suzume.jpg",
+    "titulo": "Suzume",
+    "sinopsis": "Una historia moderna de acción y aventuras en la que una chica de 17 años llamada Suzume ayuda a un misterioso joven a cerrar puertas desde el exterior que están provocando desastres por todo Japón.",
+    "calificacion": "7.7",
+    "votos": "24.970"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt1517268",
+    "afiche": "afiches/barbie.jpg",
+    "titulo": "Barbie",
+    "sinopsis": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+    "calificacion": "7.4",
+    "votos": "253.056"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt16419074/?ref_=ttls_li_i",
+    "afiche": "afiches/air.jpg",
+    "titulo": "Air",
+    "sinopsis": "Sigue la historia del vendedor de calzado Sonny Vaccaro, y cómo él llevó a Nike en su búsqueda del mejor atleta en la historia del baloncesto: Michael Jordan.",
+    "calificacion": "7.4",
+    "votos": "138.072"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt12758060",
+    "afiche": "afiches/tetris.jpg",
+    "titulo": "Tetris",
+    "sinopsis": "Un friki de la informática estadounidense y un ruso forman una amistad poco probable mientras intentan evadir a la KGB y sacar de contrabando el videojuego más famoso del mundo fuera de la Unión Soviética.",
+    "calificacion": "7.4",
+    "votos": "66.440"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt9185206",
+    "afiche": "afiches/margaret.jpg",
+    "titulo": "Are you there, God? It's me, Margaret",
+    "sinopsis": "Cuando su familia se muda de la ciudad a los suburbios, Margaret, de 11 años, navega por nuevos amigos, sentimientos y el comienzo de la adolescencia.",
+    "calificacion": "7.4",
+    "votos": "12.966"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt2906216",
+    "afiche": "afiches/calabozos.jpg",
+    "titulo": "Dungeons and Dragons: Honor entre Ladrones",
+    "sinopsis": "Un encantador ladrón y un grupo de aventureros poco comunes, emprenden una búsqueda épica para recuperar una reliquia perdida, pero las cosas se complican peligrosamente cuando se encuentran con las personas equivocadas.",
+    "calificacion": "7.3",
+    "votos": "169.563"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt12263384",
+    "afiche": "afiches/extraction2.jpg",
+    "titulo": "Tyler Rake 2",
+    "sinopsis": "Tras sobrevivir a duras penas a las graves heridas de su misión en Daca, Bangladesh, Tyler Rake está de vuelta, y su equipo está listo para emprender su próxima misión.",
+    "calificacion": "7.0",
+    "votos": "120.138"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt13521006",
+    "afiche": "afiches/beau.jpg",
+    "titulo": "Beau tiene miedo",
+    "sinopsis": "Tras la repentina muerte de su madre, un hombre apacible, pero angustiado, se enfrenta a sus miedos más oscuros al embarcarse en una odisea épica y kafkiana de vuelta a casa.",
+    "calificacion": "6.8",
+    "votos": "38.014"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt1462764",
+    "afiche": "afiches/indiana.jpg",
+    "titulo": "Indiana Jones y el Dial del Destino",
+    "sinopsis": "Para recuperar un dial legendario que puede cambiar el curso de la historia, Indiana Jones tendrá que emprender otra aventura contra el tiempo. Jones y su ahijada se enfrentan a Jürgen Voller, un ex nazi que trabaja para la NASA.",
+    "calificacion": "6.8",
+    "votos": "94.967"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt14230388",
+    "afiche": "afiches/asteroid.jpg",
+    "titulo": "Asteriod City",
+    "sinopsis": "Una convención de jóvenes astrónomos se ve alterada por unos acontecimientos que van a cambiar el mundo de todos los presentes.",
+    "calificacion": "6.7",
+    "votos": "64.101"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt10545296",
+    "afiche": "afiches/hunger.jpg",
+    "titulo": "Los juegos del Hambre: Balada de Pájaros Cantores y Serpientes",
+    "sinopsis": "Coriolanus Snow es mentor y desarrolla sentimientos por el tributo femenino del Distrito 12 durante los 10º Juegos del Hambre.",
+    "calificacion": "N/A",
+    "votos": "N/A"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt17024450",
+    "afiche": "afiches/equalizer3.jpg",
+    "titulo": "The Equalizer 3",
+    "sinopsis": "McCall descubre que sus amigos están bajo el control de la mafia italiana y tiene que convertirse en el protector.",
+    "calificacion": "N/A",
+    "votos": "N/A"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt9663764",
+    "afiche": "afiches/aquaman.jpg",
+    "titulo": "Aquaman y el Reino Perdido",
+    "sinopsis": "Argumento desconocido. Secuela de la película de 2018.",
+    "calificacion": "N/A",
+    "votos": "N/A"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt616639",
+    "afiche": "afiches/wonka.jpg",
+    "titulo": "Wonka",
+    "sinopsis": "La historia se enfocará especificamente en un joven Willy Wonka y en cómo conoció a los Oompa-Loompas en una de sus primeras aventuras.",
+    "calificacion": "N/A",
+    "votos": "N/A"
+  },
+  {
+    "enlaceImdb": "https://www.imdb.com/title/tt10676048",
+    "afiche": "afiches/marvels.jpg",
+    "titulo": "The Marvels",
+    "sinopsis": "Los poderes de Carol Danvers se enredan con los de Kamala Khan y Monica Rambeau, obligándolas a trabajar juntas para salvar el universo.",
+    "calificacion": "N/A",
+    "votos": "N/A"
   }
-  
-  ]
+]
