@@ -1,28 +1,29 @@
-export function Pelicula(){
+import './index.css'
+
+export function Pelicula({ enlaceImdb, afiche, titulo, sinopsis, calificacion, votos }){
     return(
-        <section>
+        <section className="componente-pelicula">
             <aside>
                 
-                <a href="https://www.imdb.com/title/tt9362722" target="_blank">
-                    <img src="./afiches/spiderverse.jpg" alt="Spider-Man a Través del Spider-Verso"/>
+                <a href={enlaceImdb} target="_blank">
+                    <img src={afiche}/>
                 </a>
-
 
             </aside>
             <section>
                 <div>
-                    <a href="https://www.imdb.com/title/tt9362722" target="_blank">
-                    <h1>Spider-Man a través del Spider-verso</h1>
+                    <a href={enlaceImdb} target="_blank">
+                    <h1>{titulo}</h1>
                     </a>
-                    
+                </div>
+
+                <div>
+                    <h2>Sinopsis</h2>
+                    <p>{sinopsis}</p>
                 </div>
                 <div>
-                    <p><span className="bold">Sinopsis: </span>Miles Morales emprende una aventura a través
-                del multiverso con Gwen Stacy y un nuevo equipo de la Spider People que deben enfrentar a un poderoso
-                villano.</p>
-                </div>
-                <div>
-                    <p><span className="bold">Calificación: </span><b>8.9 </b> (Votos: 191.550)</p>
+                    <h3>Calificación: </h3>
+                    <p><b>{calificacion}</b> (Votos: {votos})</p>
                     </div>
             </section>
         </section>
